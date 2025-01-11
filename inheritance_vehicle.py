@@ -3,7 +3,7 @@ Create a base class called Vehicle with the following:
 
 Attributes:
 brand (string): The name of the brand.
-color (string): The color of the vehicle.
+color (string): The color of the vehicle. 
 Methods:
 describe(): Prints: This is a [color] [brand] vehicle.
 Create a subclass called Car that inherits from Vehicle and adds the following:
