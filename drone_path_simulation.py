@@ -2,7 +2,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import heapq
 
-def find_shortest_path(graph, source_node, destination_node):
+def find_shortest_path(graph, source_node, destination_node): 
     """
     Dijkstra's algorithm to find the shortest path between two nodes in a weighted graph.
     """
