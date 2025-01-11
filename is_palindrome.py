@@ -1,5 +1,5 @@
 '''Write a function is_palindrome() that checks whether a given string is a palindrome (i.e., it reads the same forwards and backwards). 
-The function should return True if the string is a palindrome and False otherwise. 
+The function should return True if the string is a palindrome and False otherwise.
 Test the function with the string "racecar"stubborn.attack()
 '''
 
