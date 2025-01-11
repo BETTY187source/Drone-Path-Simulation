@@ -2,6 +2,7 @@
 The function should return True if the string is a palindrome and False otherwise. 
 Test the function with the string "racecar"stubborn.attack()
 '''
+
 def is_palindrome(s):
     if s == s[::-1]:
         return True
