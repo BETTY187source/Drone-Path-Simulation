@@ -5,7 +5,7 @@ This Python simulation demonstrates how drones can efficiently plan their routes
 
 ## Project Overview
 
-This simulation shows how drones can leverage Dijkstra's algorithm to:
+This simulation shows how drones can leverage Dijkstra's aLgorithm to:
 - Calculate the shortest path between a source and destination
 - Visualize the drone's movement on a graphical grid
 - Simulate automated path planning in real-time for delivery scenarios
