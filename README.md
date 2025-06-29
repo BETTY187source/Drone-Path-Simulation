@@ -1,7 +1,7 @@
      
  # Drone Path Simulation using Dijkstra's Algorithm
 
-This Python simulation demonstrates how drones can efficiently plan their routes using Dijkstra's algorithm. The project simulates automated drone path planning for package deliver by calculating the shortest path between source and destin points and visualizing the drone's movement in a graphical interface.
+This Python simulation demonstrates how drones can efficiently plan their routes using Dijkstra's algorithm. The project simulates automated drone path planning for package deliver by calculating the shortest path between source and desti points and visualizing the drone's movement in a graphical interface.
 
 ## Project Overview
 
