@@ -10,7 +10,7 @@ This simulation shows how drones can leverage Dijkstra's aLgorithm to:
 - Visualize the drone's movement on a graphical grid.
 - Simulate automated path planning in real-time for delivery scenarios.
 - Allow users to work with either predefined or custom nodes.
-- Display real-time path calculations and visualizations of the optimal route.
+- Display real-time path calculations and visualizations of the optimal route
 
 ## Features
 
